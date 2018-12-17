@@ -1,6 +1,6 @@
 
 
-team_name = 'AprilMac'
+team_name = 'Best Name'
 strategy_name = 'Infinite Betrayal'
 strategy_description = 'Start nice, betray to win'
     
